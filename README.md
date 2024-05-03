@@ -1,5 +1,7 @@
 ### Hi there 👋
 My name is Sam and this is my github profile, I am currently seeking a entry-level software development position and hoping to expand and challenge my current skills.
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazerlazer2101&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazerlazer2101&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
