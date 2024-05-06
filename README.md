@@ -15,7 +15,10 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
 </div>
 <h2>Stats:</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazerlazer2101&show_icons=true)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazerlazer2101&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazerlazer2101&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
