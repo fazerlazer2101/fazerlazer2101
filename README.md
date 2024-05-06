@@ -1,7 +1,7 @@
 <h1>Hi my name is Samuel Ferrer 👋</h1>
 <ul>
   <li>🔭 I’m currently working on a personal dividend tracker using Questrade API.</li>
-  <li>:briefcase: Open to new opprotunaties!</li>
+  <li>:briefcase: Open to new opportunities!</li>
   <li>📫 How to reach me: Connect with me www.linkedin.com/in/samferrer.</li>
 </ul>
 <h2>Technologies I have experience with:</h2>
